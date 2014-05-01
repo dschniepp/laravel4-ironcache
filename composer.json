@@ -16,12 +16,12 @@
     }],
     "require": {
         "php": ">=5.3",
-        "iron-io/iron_cache": "dev-master"
+        "iron-io/iron_cache": "0.1.*"
     },
     "autoload": {
         "psr-0": {
             "Dietervds\\IronCache": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
